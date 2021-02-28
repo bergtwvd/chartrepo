@@ -1,0 +1,7 @@
+name: xserver
+home: https://github.com/globalsim/msaas-A/wiki/X-Server-image
+version: 0.1
+description: X Server.
+details:
+  This image is an X Server for use by any X11 based application.
+  
